@@ -1,4 +1,4 @@
-function rot13(str) { // LBH QVQ VG!
+function rot13(str)
     let hello = str.toUpperCase();
     let newArr = hello.split("");
   
